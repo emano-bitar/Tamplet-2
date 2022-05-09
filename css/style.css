@@ -60,7 +60,8 @@ position: relative;
     content:"0";
     font-size: 15px;
     bottom: -14px;
-    left: 33px;
+        left: 28px;
+
     border-radius: 50%;
     width: 10px;
     height: 15px;
@@ -73,7 +74,8 @@ position: relative;
 .text1{
     position: relative;
     top: 7px;
-    left: -6px;
+        left: -10px;
+
     text-transform: capitalize;
     font-size: 17px;
     font-weight: bold;
